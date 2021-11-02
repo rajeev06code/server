@@ -1,0 +1,132 @@
+{"products":[
+        {
+          "id":1,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product1.df67044e.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":2,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product3.7f6a1c19.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":3,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product2.c5b32240.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":4,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product5.5b0e9088.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":5,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product6.4bebc747.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":6,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product4.522e7d45.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":7,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product1.df67044e.png",
+          "name":"aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":8,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product2.c5b32240.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":9,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product4.522e7d45.png",
+          "name":"aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":10,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product3.7f6a1c19.png",
+          "name":"Aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":11,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product5.5b0e9088.png",
+          "name":"aries Total",
+          "price":645,
+          "discount":789
+      },
+        {
+          "id":12,
+          "img":"https://rajeev-faarms-login2.netlify.app/static/media/product6.4bebc747.png",
+          "name":"aries Total",
+          "price":645,
+          "discount":789
+      }
+      ],
+      "products2":[
+        {
+            "id":1,
+            "img":"https://rajeev-faarms-login2.netlify.app/static/media/product1.df67044e.png",
+            "name":"Palal Patta"
+        },
+        {
+            "id":2,
+            "img":"https://rajeev-faarms-login2.netlify.app/static/media/product3.7f6a1c19.png",
+            "name":"Palal Patta"
+        },
+        {
+            "id":3,
+            "img":"https://rajeev-faarms-login2.netlify.app/static/media/product2.c5b32240.png",
+            "name":"Palal Patta"
+        },
+        {
+            "id":4,
+            "img":"https://rajeev-faarms-login2.netlify.app/static/media/product4.522e7d45.png",
+            "name":"Palal Patta"
+        }
+    ],
+      "products3":[
+        {
+            "id":1,
+            "img":"https://rajeev-faarms-login1.netlify.app/static/media/product_col4.de8be0e7.png",
+            "name":"Palal Patta"
+        },
+        {
+            "id":2,
+            "img":"https://rajeev-faarms-login1.netlify.app/static/media/product_col4b.ef5ae61f.png",
+            "name":"Palal Patta"
+        },
+        {
+            "id":3,
+            "img":"https://rajeev-faarms-login1.netlify.app/static/media/product_col4c.54db1d01.png",
+            "name":"Palal Patta"
+        },
+        {
+            "id":4,
+            "img":"https://rajeev-faarms-login1.netlify.app/static/media/product_col4d.751842cb.png",
+            "name":"Palal Patta"
+        }
+    ]
+   
+}
